@@ -69,11 +69,13 @@ Clone the repository and install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
 ```bash
 python main.py https://example.com
+```
 
 ## Design Notes
 
