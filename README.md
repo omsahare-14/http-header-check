@@ -98,5 +98,3 @@ This project was built to:
 
 • Reinforce understanding of HTTP security headers
 • Translate theory into practical tooling
-• Practice clean CLI tool design
-• Serve as a small but complete portfolio project
